@@ -20,4 +20,4 @@ Every week, we shall be adding further tasks. If you see any discrepancy in our 
 
 ------
 
-<center>Created with ![heart](https://github.githubassets.com/images/icons/emoji/unicode/2764.png) by [IEEESBM](http://blog.ieeemanipal.tech/)</center>
+Created with ![heart](https://github.githubassets.com/images/icons/emoji/unicode/2764.png) by [IEEESBM](http://blog.ieeemanipal.tech/)
