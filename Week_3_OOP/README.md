@@ -12,6 +12,7 @@ This task introduces Object Oriented Programming methodology with implementation
 - In detail with theory content: [link](https://realpython.com/python3-object-oriented-programming/)
 - For an easier read: [link](https://www.programiz.com/python-programming/object-oriented-programming)
   - Please go through the entire Python Object and Class Section
+- Video Resource: [link](https://www.youtube.com/watch?v=qiSCMNBIP2g)
 
 ## Tasks
 
